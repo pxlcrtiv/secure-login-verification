@@ -6,6 +6,23 @@ A professional email/password login verification system with Telegram bot integr
 
 ![Login Flow](https://via.placeholder.com/800x400/3b82f6/ffffff?text=5-Step+Verification+Flow)
 
+## 📸 Screenshots
+
+### Step 1: Login Form
+Professional email/password login interface with clean styling and validation.
+
+### Step 2: First Progress Loader (60s)
+Smooth circular progress animation with percentage display and step indicator.
+
+### Step 3: OTP Verification
+Clean 6-digit code input with real-time validation and Telegram integration.
+
+### Step 4: Second Progress Loader (30s)
+Final processing stage with animated progress circle and completion preparation.
+
+### Step 5: Success Confirmation
+Animated success page with checkmark, completion message, and reset functionality.
+
 ## ✨ Features
 
 ### 🔐 5-Step Authentication Flow
@@ -35,6 +52,14 @@ A professional email/password login verification system with Telegram bot integr
 - Input validation and sanitization
 - Secure API endpoints
 - No sensitive data exposure in client-side code
+
+### 🚀 Tech Stack
+- **Frontend**: Next.js 14, React 18, TypeScript
+- **Styling**: Tailwind CSS, shadcn/ui components
+- **Backend**: Next.js API routes
+- **Integration**: Telegram Bot API
+- **Deployment**: Netlify
+- **Package Manager**: Bun
 
 ## 🚀 Quick Start
 
